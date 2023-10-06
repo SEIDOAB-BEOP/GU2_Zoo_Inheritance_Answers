@@ -8,10 +8,11 @@ namespace GU1_Zoo
         public List<csAnimal> ListOfAnimal { get; set; } = new List<csAnimal>();
         public string Name { get; set; }
 
+        
         public virtual int kgMeat { get; } = 0;
         public virtual int nrWolfs { get; } = 0;
         public virtual int nrParrots { get; } = 0;
-
+        
         public override string ToString()
         {
             string sRet = $"\n{Name}:";
