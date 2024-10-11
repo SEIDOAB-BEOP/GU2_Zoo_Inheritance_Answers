@@ -1,0 +1,12 @@
+/Users/Martin/Development/Projects/Beginner OOP Aug 2024/CSharp Part/GroupAssignmentAnswers/GU2_Zoo_Inheritance_Answers/seedGenerator/bin/Debug/net8.0/seedGenerator.deps.json
+/Users/Martin/Development/Projects/Beginner OOP Aug 2024/CSharp Part/GroupAssignmentAnswers/GU2_Zoo_Inheritance_Answers/seedGenerator/bin/Debug/net8.0/seedGenerator.dll
+/Users/Martin/Development/Projects/Beginner OOP Aug 2024/CSharp Part/GroupAssignmentAnswers/GU2_Zoo_Inheritance_Answers/seedGenerator/bin/Debug/net8.0/seedGenerator.pdb
+/Users/Martin/Development/Projects/Beginner OOP Aug 2024/CSharp Part/GroupAssignmentAnswers/GU2_Zoo_Inheritance_Answers/seedGenerator/obj/Debug/net8.0/seedGenerator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Martin/Development/Projects/Beginner OOP Aug 2024/CSharp Part/GroupAssignmentAnswers/GU2_Zoo_Inheritance_Answers/seedGenerator/obj/Debug/net8.0/seedGenerator.AssemblyInfoInputs.cache
+/Users/Martin/Development/Projects/Beginner OOP Aug 2024/CSharp Part/GroupAssignmentAnswers/GU2_Zoo_Inheritance_Answers/seedGenerator/obj/Debug/net8.0/seedGenerator.AssemblyInfo.cs
+/Users/Martin/Development/Projects/Beginner OOP Aug 2024/CSharp Part/GroupAssignmentAnswers/GU2_Zoo_Inheritance_Answers/seedGenerator/obj/Debug/net8.0/seedGenerator.csproj.CoreCompileInputs.cache
+/Users/Martin/Development/Projects/Beginner OOP Aug 2024/CSharp Part/GroupAssignmentAnswers/GU2_Zoo_Inheritance_Answers/seedGenerator/obj/Debug/net8.0/seedGenerator.sourcelink.json
+/Users/Martin/Development/Projects/Beginner OOP Aug 2024/CSharp Part/GroupAssignmentAnswers/GU2_Zoo_Inheritance_Answers/seedGenerator/obj/Debug/net8.0/seedGenerator.dll
+/Users/Martin/Development/Projects/Beginner OOP Aug 2024/CSharp Part/GroupAssignmentAnswers/GU2_Zoo_Inheritance_Answers/seedGenerator/obj/Debug/net8.0/refint/seedGenerator.dll
+/Users/Martin/Development/Projects/Beginner OOP Aug 2024/CSharp Part/GroupAssignmentAnswers/GU2_Zoo_Inheritance_Answers/seedGenerator/obj/Debug/net8.0/seedGenerator.pdb
+/Users/Martin/Development/Projects/Beginner OOP Aug 2024/CSharp Part/GroupAssignmentAnswers/GU2_Zoo_Inheritance_Answers/seedGenerator/obj/Debug/net8.0/ref/seedGenerator.dll
